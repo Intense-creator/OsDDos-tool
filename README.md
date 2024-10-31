@@ -17,7 +17,7 @@ It will flood the victim's router with UDP packets, so even if there are no port
 <br>
 the router will still be overwhelmed and slowed down.
 <br><br>
-Brute allows you to DoS Fivem, Minecraft, or even normal servers.
+Os allows you to DoS Fivem, Minecraft, or even normal servers.
 <br>
 But it can also down a simple family network.
 <br><br><br>
