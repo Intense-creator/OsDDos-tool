@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://repository-images.githubusercontent.com/511306162/fbf9f42b-8aee-4d1a-8f2f-5b68285736a7", width="500", height="500">
+<img src="https://media.discordapp.net/attachments/1268574377163882609/1269475618727133304/IMG_7043.png?ex=6724df8d&is=67238e0d&hm=c238fbc6d7121c7f8a8febc6a2674fc696580bde364861f5deb1d180c4cdc459&=&format=webp&quality=lossless&width=675&height=676", width="500", height="500">
 </p>
 
 -----
@@ -22,7 +22,7 @@ Brute allows you to DoS Fivem, Minecraft, or even normal servers.
 But it can also down a simple family network.
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/940036299941904405/994447869736128573/zyro-image_7.png" width="500", height="400">
+<img src="https://media.discordapp.net/attachments/1268574377163882609/1269475618727133304/IMG_7043.png?ex=6724df8d&is=67238e0d&hm=c238fbc6d7121c7f8a8febc6a2674fc696580bde364861f5deb1d180c4cdc459&=&format=webp&quality=lossless&width=675&height=676" width="500", height="400">
 </p>
 <br>
 
@@ -50,7 +50,7 @@ But it can also down a simple family network.
 <br>
 
 <p align="right">
-<img src="https://repository-images.githubusercontent.com/511306162/fbf9f42b-8aee-4d1a-8f2f-5b68285736a7" width="250", height="250">
+<img src="https://media.discordapp.net/attachments/1268574377163882609/1269475618727133304/IMG_7043.png?ex=6724df8d&is=67238e0d&hm=c238fbc6d7121c7f8a8febc6a2674fc696580bde364861f5deb1d180c4cdc459&=&format=webp&quality=lossless&width=675&height=676" width="250", height="250">
 </p>
 
 <br>
