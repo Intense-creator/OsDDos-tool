@@ -6,12 +6,12 @@
 
 -----
 
-### <p align="center">☠️ Brute ☠️</p>
+### <p align="center">☠️ Os ☠️</p>
 
 <br><br>
 <p align="center">
 <strong>
-Brute is the best (imo) L4 DoS tool in Python3.
+Os is the best (imo) L4 DoS tool in Python3.
 <br><br>
 It will flood the victim's router with UDP packets, so even if there are no ports opened,
 <br>
